@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Hasan Musa</h1>
 <h3 align="center">C# programlama dili ile çalışmalar yapıp proje geliştiriyorum.</h3>
 
-- Mecvut olarak **.NET Framework** ve **Bootstrap** ile karma projeler geliştiriyorum.
+- Mevcut olarak **.NET Framework** ve **Bootstrap** ile karma projeler geliştiriyorum.
 - **C#** programlama dilinde bulunan **Windows Forms**, **Konsol Uygulaması** ve **ASP.NET MVC** konusuna dair projelerime repolarımdan erişebilirsiniz.
 - **Grafana** ile ilgili çalışmam ise **Prometheus**'a Agent yardımıyla çekmiş olduğum bilgileri panele görsel şekilde aktarım olmuştur. Çoğunlukla dokümantasyon takibiyle yaptığım bir çalışma olmasıyla birlikte, bu şekilde olmuşturmuş olduğum kendime ait dokümanım bulunmaktadır.
 - Projelerimde kullandığım veritabanı sunucusu olarak **SQL Server** kullanıyorum. SQL Server kısmındaki bilgilerim kullanım tarzından çok burada bir veritabanı oluşturma ve ilişkileri diyagrama aktarma şeklindedir.
