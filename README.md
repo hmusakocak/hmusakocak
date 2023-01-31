@@ -3,13 +3,14 @@
 
 - Mevcut olarak **.NET Framework** ve **Bootstrap** ile karma projeler geliştiriyorum.
 - **C#** programlama dilinde bulunan **Windows Forms**, **Konsol Uygulaması** ve **ASP.NET MVC** konusuna dair projelerime repolarımdan erişebilirsiniz.
-- **Grafana** ile ilgili çalışmam ise **Prometheus**'a Agent yardımıyla çekmiş olduğum bilgileri panele görsel şekilde aktarım olmuştur. Çoğunlukla dokümantasyon takibiyle yaptığım bir çalışma olmasıyla birlikte, bu şekilde oluşturmuş olduğum kendime ait dokümanım bulunmaktadır.
-- Projelerimde kullandığım veritabanı sunucusu olarak **SQL Server** kullanıyorum. SQL Server kısmındaki bilgilerim kullanım tarzından çok burada bir veritabanı oluşturma ve ilişkileri diyagrama aktarma şeklindedir.
-- HTTP istekleri ile ilgili örnek çalışmam olan <a href="https://github.com/glitchedpng/lenovoWarrantyAPI">Lenovo Garanti API</a>'sine göz atabilirsiniz. Tamamen sitenin kaynak kısımlarından herkese izin verilmiş şekilde bulunan **GET** ve **POST** fonksiyonları ile gerçekleştirilmiş bir projedir.
+- **Grafana** ile ilgili çalışmam ise **Prometheus**'a agent(ajan) yardımıyla çekmiş olduğum bilgileri panele görsel şekilde aktarım olmuştur. Çoğunlukla dokümantasyon takibiyle yaptığım bir çalışma olmasıyla birlikte, bu şekilde oluşturmuş olduğum kendime ait dokümanım bulunmaktadır.
+- Projelerimde kullandığım veritabanı sunucusu olarak **SQL Server** kullanıyorum. **SQL Server** kısmındaki bilgilerim kullanım tarzından çok burada bir veritabanı oluşturma ve ilişkileri diyagrama aktarma şeklindedir.
+- **HTTP** istekleri ile ilgili örnek çalışmam olan <a href="https://github.com/glitchedpng/lenovoWarrantyAPI">Lenovo Garanti API</a>'sine göz atabilirsiniz. Tamamen sitenin kaynak kısımlarından herkese izin verilmiş şekilde bulunan **GET** ve **POST** fonksiyonları ile gerçekleştirilmiş bir projedir.
 
 <h3 align="left">Bana ulaşabilirsiniz:</h3>
 <p align="left">
 <a href="https://instagram.com/hmusakocak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmusakocak" height="30" width="40" /></a>
+  <a href="mailto:hasanmusa05g@hotmail.com" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454734_960_720.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
