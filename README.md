@@ -4,8 +4,8 @@
 - Mostly working with **.NET Framework** and **Bootstrap**.
 - You can access my projects related to **Windows Forms**, **Console Application** and **ASP.NET MVC** in **C#** programming language from my repos..
 - My work on **Grafana** has been the visual transfer of the information I have taken to **Prometheus** with the help of an agent to the panel. Although it is a work that I do mostly by following the documentation, I have my own document that I have created in this way.
-- I use **SQL Server** as the database server I use in my projects. My knowledge in the **SQL Server** part is more about creating a database here and transferring the relationships to the diagram, rather than the usage style..
-- You can check my case study on **HTTP** requests at <a href="https://github.com/glitchedpng/lenovoWarrantyAPI">Lenovo Warranty Inquiry</a>. It is a project realized with **GET** and **POST** functions, which are completely allowed to everyone from the source parts of the site..
+- I use **SQL Server** as the database server I use in my projects. My knowledge in the **SQL Server** part is more about creating a database here and transferring the relationships to the diagram, rather than the usage style.
+- You can check my case study on **HTTP** requests at <a href="https://github.com/glitchedpng/lenovoWarrantyAPI">Lenovo Warranty Inquiry</a>. It is a project realized with **GET** and **POST** functions, which are completely allowed to everyone from the source parts of the site.
 - **My setup document for Grafana and Prometheus: [setup.pdf](https://github.com/glitchedpng/glitchedpng/files/10578270/setup.pdf) (Firewall settings are available.)**
 
 <h3 align="left">You can contact me:</h3>
