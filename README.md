@@ -11,9 +11,9 @@
 
 <h3 align="left">You can contact me:</h3>
 <p align="left">
-<a href="https://instagram.com/hmusakocak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmusakocak" height="30" width="40" /></a>
+<a href="https://instagram.com/hmusakocak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="mailto:hasanmusa05g@hotmail.com" target="_blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454734_960_720.png" height="40" width="40" /></a>
-  <a href="https://www.nuget.org/profiles/hmk" target="_blank"><img align="center" src="https://www.nuget.org/Content/gallery/img/logo-header-94x29.png" alt="hmk" height="29" width="94" /></a>
+  <a href="https://www.nuget.org/profiles/hmk" target="_blank"><img align="center" src="https://www.nuget.org/Content/gallery/img/logo-header-94x29.png" height="29" width="94" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
