@@ -28,10 +28,12 @@
 </p>
 <h3 align="center">About my Github!</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchedpng&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchedpng&theme=vue-dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=glitchedpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpng&hide=css,html&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact">
+</p>
+ 
 <br>
 <h4 align="center">Microsoft certificate for C# Developer</h4>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/61805121/264813910-b63ed3b0-dcdf-4e89-b8de-d82d7de30023.png">
