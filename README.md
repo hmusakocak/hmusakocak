@@ -5,8 +5,8 @@
 - You can access my projects related to **Windows Forms**, **Console Application** and **ASP.NET MVC** in **C#** programming language from my repos.
 - My work on **Grafana** has been the visual transfer of the information I have taken to **Prometheus** with the help of an agent to the panel. Although it is a work that I do mostly by following the documentation, I have my own document that I have created in this way.
 - I use **SQL Server** as the database server in my projects. My knowledge in the **SQL Server** part is more about creating a database here and transferring the relationships to the diagram, rather than the usage style.
-- You can check my case study on **HTTP** requests at <a href="https://github.com/glitchedpng/WarrantyQuery"> Warranty Inquiry</a>. It is a project realized with **GET** and **POST** functions and Selenium Web Driver which are completely allowed to everyone from the source parts of the site.
-- **My setup document for Grafana and Prometheus: [setup.pdf](https://github.com/glitchedpng/glitchedpng/files/10578270/setup.pdf) (Firewall settings are available.)**
+- You can check my case study on **HTTP** requests at <a href="https://github.com/hmusakocak/WarrantyQuery"> Warranty Inquiry</a>. It is a project realized with **GET** and **POST** functions and Selenium Web Driver which are completely allowed to everyone from the source parts of the site.
+- **My setup document for Grafana and Prometheus: [setup.pdf](https://github.com/hmusakocak/hmusakocak/files/10578270/setup.pdf) (Firewall settings are available.)**
 
 <h3 align="center">You can contact me</h3>
 <p align="center">
@@ -28,10 +28,10 @@
 </p>
 <h3 align="center">About my Github!</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchedpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmusakocak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchedpng&hide=css,html&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmusakocak&hide=css,html&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact">
 </p>
  
 <br>
