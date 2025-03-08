@@ -18,15 +18,10 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<h3 align="center">How good i am on Languages and Techs?</h3>
-<p align="center">
-  <img src="https://progress-bar.dev/75?title=CSharp"><br>
- <img src="https://progress-bar.dev/45?title=BootStrap"><br>
-  <img src="https://progress-bar.dev/60?title=EF"><br>
-  <img src="https://progress-bar.dev/35?title=HTML"><br>
-  <img src="https://progress-bar.dev/45?title=CSS"><br>
-</p>
+<h3 align="center">Securit Engineering Software Badges</h3>
+<p align="center"><a href="https://www.credly.com/badges/c9647829-8fa3-4567-bf31-a71c31061826/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8bf8d2ed-b8ef-4e81-b7b4-ad2341ab8e77" alt="docker" width="120" height="120"/> </a><a href="https://www.credly.com/badges/da26956f-9542-4134-9e86-06bb76ae17ca/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e9caf8cd-ccaf-4f23-95e8-75a5d56fff82" alt="gdpadmin" width="120" height="120"/> </a><a href="https://www.credly.com/badges/dbffe596-ddf8-4f6d-b48f-a527faa88840/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7ba475ac-b3e0-4ef7-b4f0-9bad3a2b8173" alt="gdpfoundation" width="120" height="120"/> </a></p>
 <h3 align="center">About my Github!</h3>
+<p align="center">  </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hmusakocak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </p>
