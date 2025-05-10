@@ -1,7 +1,13 @@
 <h1 align="center">Hi, this is Hasan Musa</h1>
-<h3 align="center">I am working with C# programming language and making projects currently now.</h3>
+<h3 align="center">I am working as Security Engineer at Platin Bilisim. </h3>
 
-- Mostly working with **.NET Framework** and **Bootstrap**.
+Hello, I am Musa, I have worked with many project types in the C# programming language. I chose ASP.NET Core and .NET Framework Windows Forms Application as a way to improve myself. I have developed many projects in these project types. My sectoral experience is as an intern at Aeris Technology and Istanbul University Faculty of Medicine, IT Department. I worked on network hardware/technologies, system support and installations at Aeris Technology. At Istanbul University Faculty of Medicine, Information Technology Department, I worked on automation program support, technical support on peripheral equipment and computer hardware, and a software project I was working on. I completed my long-term internship in the SIEM team at Platin Bilisim. Currently, I continue my career as a cyber security engineer at Platin Bilisim. In the course of my career, I am trying to take my engineering skills regarding IBM Guardium Data Protection, DAM, FAM and related architecture/sizing far as possible within Holistic Security.
+
+- **IBM Guardium Data Protection Research and Development**
+- **Symantec Endpoint Protection and Symantec EDR**
+</br>
+
+- Mostly working with **.NET Framework**.
 - You can access my projects related to **Windows Forms**, **Console Application** and **ASP.NET MVC** in **C#** programming language from my repos.
 - My work on **Grafana** has been the visual transfer of the information I have taken to **Prometheus** with the help of an agent to the panel. Although it is a work that I do mostly by following the documentation, I have my own document that I have created in this way.
 - I use **SQL Server** as the database server in my projects. My knowledge in the **SQL Server** part is more about creating a database here and transferring the relationships to the diagram, rather than the usage style.
