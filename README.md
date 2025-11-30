@@ -26,14 +26,7 @@ Hello, I am Musa, I have worked with many project types in the C# programming la
 
 <h3 align="center">Securit Engineering Software Badges</h3>
 <p align="center"><a href="https://www.credly.com/badges/c9647829-8fa3-4567-bf31-a71c31061826/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8bf8d2ed-b8ef-4e81-b7b4-ad2341ab8e77" alt="docker" width="120" height="120"/> </a><a href="https://www.credly.com/badges/da26956f-9542-4134-9e86-06bb76ae17ca/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e9caf8cd-ccaf-4f23-95e8-75a5d56fff82" alt="gdpadmin" width="120" height="120"/> </a><a href="https://www.credly.com/badges/dbffe596-ddf8-4f6d-b48f-a527faa88840/public_url" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7ba475ac-b3e0-4ef7-b4f0-9bad3a2b8173" alt="gdpfoundation" width="120" height="120"/> </a></p>
-<h3 align="center">About my Github!</h3>
-<p align="center">  </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmusakocak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-</p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmusakocak&hide=css,html&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact">
-</p>
+
  
 <br>
 <h4 align="center">Microsoft certificate for C# Developer</h4>
